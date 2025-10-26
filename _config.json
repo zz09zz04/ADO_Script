@@ -1,0 +1,9 @@
+{
+  "AZURE_DEVOPS_EXT_PAT": "",
+  "Organization": "",
+  "Project": "",
+  "Tags": "",
+  "ItemType": "",
+  "Owner": "",
+  "SelectItems": ["System.Id", "System.Title", "System.Tags"]
+}
