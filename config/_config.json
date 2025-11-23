@@ -1,0 +1,19 @@
+{
+  "TestPlanName":         "",
+  "AZURE_DEVOPS_EXT_PAT": "",
+  "Organization":         "",
+  "Project":              "",
+  "TestPlanId":           "",
+  "FieldNames": {
+    "ID":              "System.Id",
+    "Title":           "System.Title",
+    "Owner":           "",
+    "RobotName":       "",
+    "URL":             "url",
+    "Iteration":       "System.IterationPath"
+    },
+  "Tags": ["", ""],
+  "ItemType": "Test Case",
+  "Owner": "",
+  "SelectItems": ["System.Id", "System.Title", "System.Tags", "System.State"]
+}
